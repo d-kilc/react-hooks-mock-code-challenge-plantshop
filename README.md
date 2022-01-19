@@ -1,5 +1,13 @@
 # React Mock Code Challenge: Plantsy
 
+## Things to study:
+* Updating price? I'm one step behind every time
+** State is not updated by the time I do the fetch
+
+## Questions
+* Is there a better way to filter that doesnt involve having 2 separate states
+* Is it ok to add to the data model (e.g. "inStock")
+
 ## Demo
 
 Use this gif as an example of how the app should work.

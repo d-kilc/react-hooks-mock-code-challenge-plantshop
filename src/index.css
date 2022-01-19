@@ -28,6 +28,11 @@ button.primary {
   color: white;
 }
 
+button.danger {
+  background-color: red;
+  color: white
+}
+
 .app {
   margin: 0 auto;
   max-width: 1200px;
